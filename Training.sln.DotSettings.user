@@ -1,6 +1,9 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dd4cbed4_002D8070_002D4249_002D8c28_002D023bfb2e710d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestCanCreateBubbleSort" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1bfc47a8_002D12a1_002D4fee_002Da254_002Dfe6e1ca19ccf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
-    &lt;TestId&gt;xUnit::29226134-9E7B-4A83-BBAC-90E6A737FDBC::net5.0::SortingAlgorithmsTest.BubbleSortTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29226134-9E7B-4A83-BBAC-90E6A737FDBC::net5.0::AlgorithmsTest.SumUpTest.Test&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dd4cbed4_002D8070_002D4249_002D8c28_002D023bfb2e710d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestCanCreateBubbleSort" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/rickardranniger/RiderProjects/Training/AlgorithmsTest" Presentation="&amp;lt;AlgorithmsTest&amp;gt;" /&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

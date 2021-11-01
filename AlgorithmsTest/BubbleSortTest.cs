@@ -1,8 +1,8 @@
 using System;
-using SortingAlgorithms;
+using Algorithms;
 using Xunit;
 
-namespace SortingAlgorithmsTest
+namespace AlgorithmsTest
 {
     public class BubbleSortTest
     {
